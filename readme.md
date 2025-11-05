@@ -34,7 +34,7 @@ fastboot reboot
 - touchscreen not works
 - battery status not works
 
-### fuatures
+### features
 
 - [hardware gui control](https://wiki.orangefox.tech/en/guides/recovery_no_touch) works
 - adb shell works
