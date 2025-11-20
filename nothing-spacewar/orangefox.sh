@@ -9,7 +9,7 @@ git config --global color.ui auto
 git clone https://gitlab.com/OrangeFox/sync
 env --chdir=sync bash orangefox_sync.sh --branch 12.1 --path $(pwd)/build
 cd build
-git clone --depth=1 https://github.com/gmankab/orangefox_device_nothing_Spacewar device/nothing/Spacewar
+git clone --depth=1 https://github.com/neonmodder123/OFRP-device_nothing_Spacewar device/nothing/Spacewar
 git clone --depth=1 https://github.com/LineageOS/android_kernel_nothing_sm7325 kernel/nothing/sm7325
 mkdir -p device/nothing/Spacewar/prebuilt/dtbs
 
